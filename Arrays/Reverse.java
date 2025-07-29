@@ -17,3 +17,7 @@ public class Reverse {
 
     }
 }
+
+//this is 2 pointer method 
+// try stack method also 
+
